@@ -31,6 +31,6 @@ int main() {
     free(arr);
     printf("Memoria liberada.\n");
 
-    return 0; // Terminación exitosa del programa
+    return 0; // Terminación exitosa del programa. AGREGAMOS UN CAMBIO
 }
 
